@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://psic-laura-alondra.github.io/sitemap.xml
