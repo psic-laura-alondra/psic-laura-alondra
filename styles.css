@@ -417,6 +417,27 @@ h2 {
   gap: 0.65rem;
 }
 
+.legal-box {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 1.1rem 1.2rem;
+  box-shadow: 0 8px 20px rgba(20, 33, 47, 0.08);
+}
+
+.legal-box p {
+  color: var(--muted);
+  margin: 0 0 0.9rem;
+}
+
+.legal-box p:last-child {
+  margin-bottom: 0;
+}
+
+.legal-license-link {
+  font-weight: 600;
+}
+
 .notice {
   background: #fffaf2;
   border: 1px solid #e4d7bc;
